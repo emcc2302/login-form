@@ -21,8 +21,8 @@ A simple and beautiful **Login Form** built using **HTML**, **CSS**, and **JavaS
 ![Dark Mode Preview](./Screenshot%202025-06-26%20202742.png)
 
 ### 🌫️ Light Mode  
-![Light Mode Preview](./Screenshot%202025-06-26%20202750.png)
 
+![Light Mode Preview]("C:\Users\Soriful Islam Sk\Pictures\Screenshots\Screenshot 2025-06-26 202750.png")
 ---
 
 ## 🛠️ Technologies Used
