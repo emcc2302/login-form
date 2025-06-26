@@ -35,8 +35,8 @@ login-form/
 ├── index.html
 ├── style.css
 ├── script.js
-├── Screenshot 2025-06-26 202742.png
-├── Screenshot 2025-06-26 202750.png
+├── dark-mode.png
+├── light-mode.png
 └── README.md
 
 
