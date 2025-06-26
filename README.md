@@ -16,10 +16,10 @@ A simple and beautiful **Login Form** built using **HTML**, **CSS**, and **JavaS
 ---
 
 ### 🌌 Dark Mode  
-![Dark Mode](./dark-mode.png)
+![Dark Mode](./dark-mode.png.png)
 
 ### 🌫️ Light Mode  
-![Light Mode](./light-mode.png)
+![Light Mode](./light-mode.png.png)
 
 ## 🛠️ Technologies Used
 
